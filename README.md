@@ -1,6 +1,6 @@
 # Creating Zoning Maps Using Python & Pandas and Displaying the Results in CARTO
 By following this tutorial, you’ll learn to navigate geographic shapefiles in a Jupyter Notebook (we'll be using Colab). You will upload data from DC’s open data portal, and then concatenate datasets and conduct some basic analysis. Finally, you'll create a basic map, and create a new `.shp` file that can be used with ESRI products... or can be uploaded to a service like [Carto](https://www.carto.com/) to create the online map you see below! Check out a live version of [my final map here](https://maxenger.carto.com/builder/19791875-55ba-45bc-b629-7468d5ba1d5a/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B38.78165483591878%2C-77.28332519531251%5D%2C%22sw%22%3A%5B39.027718840211605%2C-76.64886474609376%5D%2C%22center%22%3A%5B38.90479344272695%2C-76.96609497070314%5D%2C%22zoom%22%3A12%7D%7D).  
-![Max's cool map](images/carto_ouput.png)
+![Max's Final Product](images/carto_ouput.PNG)
 
 ### To complete this assignment you will need:
 - A Google account. We'll be using Colab, but also space in your Google Drive: this will be nice example of hosting a small data science project with your own services.
